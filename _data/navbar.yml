@@ -1,0 +1,30 @@
+# Links on the navbar
+# All topmost links are automatically capitalized
+
+links:
+  - name: home
+    url: /
+    sublinks:
+  - name: beamerman
+    url: /beamerman
+    sublinks:
+      - name: How to Play
+        url: /beamerman/how-to-play
+      - name: Download
+        url: https://github.com/lightcaster-studios/beamerman/releases
+      - name: Documentation
+        url: /beamerman/documentation
+      - name: Team
+        url: /beamerman/team
+    issue-tracker:
+      name: Report a Bug
+      url: https://github.com/lightcaster-studios/beamerman/issues
+  - name: contact
+    url: /contact
+
+# For links that you don't want to show in the navbar, and want them to be 
+# shown under a `MORE` dropdown at the end of the navbar, include them here
+
+# more:
+#  - name: contact
+#    url: 
