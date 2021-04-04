@@ -14,7 +14,7 @@ Shoot lazers and kill your enemies!
 Break crates to get powerups!
 You only have 5 lives!
 
-**Mayhem Mode:** When time runs out, the floor will fall beneath your feet. Dropping off the arena is an instant death.
+**Mayhem Mode:** When time runs out, the floor will fall beneath your feet. Dropping off the arena is an instant death!
 
 ## Powerups
 ## Permanent Powerups
