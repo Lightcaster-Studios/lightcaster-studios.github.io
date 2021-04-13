@@ -109,6 +109,16 @@ Increase your walking speed. Dodge or rush down your opponent with your ferociou
 
 
 
+## Mayhem Mode
+
+When the timer hits zero, Mayhem mode is activated! Tiles will fall off the map slowly starting from the edge, so quickly kill your opponents before you fall of the map!
+[Mayhem mode]
+
+
+
+
+
+
 ### Editing Layout
 
 This site is styled using [bulma](https://bulma.io/documentation/), to change page styles, please read the docs.
