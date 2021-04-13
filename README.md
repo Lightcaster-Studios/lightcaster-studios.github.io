@@ -17,6 +17,14 @@ All names of `.md` files in the root directory correspond to the name of their l
 
 If you want to create a new link, e.g. `/beamerman/about`, create a new `.md` file at `/beamerman/`.
 
+
+### How to Play
+The objective of the game is to defeat your opponents, collect powerups & avoid lasers (including your own)! The victorious will be the last one standing!
+Basic Controls
+WSAD, to move Up, down, Left & Right.
+Press Spacebar to fire!
+
+
 ### Editing Layout
 
 This site is styled using [bulma](https://bulma.io/documentation/), to change page styles, please read the docs.
