@@ -96,9 +96,8 @@ Increase the number of drones you can place simultaneously at a time.
 With fast reaction time and proper placement you can drown your opponents with an insane barrage of lasers!! 
 
 **_Reflect Level_**
-Increase the number of times your laser can reflect/refract off mirrors and prism.
-[ref level]
-[reflect spam gif]
+Increase the number of times your laser can reflect/refract off mirrors and prism. Set off an ernomous chain reaction for exhilarating damage!
+[ref level][reflect spam gif]
 
 **_Range_**
 Increase the range of your laser. Pick off your rivals from far!
