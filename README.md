@@ -18,11 +18,35 @@ All names of `.md` files in the root directory correspond to the name of their l
 If you want to create a new link, e.g. `/beamerman/about`, create a new `.md` file at `/beamerman/`.
 
 
-### How to Play
+## How to Play
 The objective of the game is to defeat your opponents, collect powerups & avoid lasers (including your own)! The victorious will be the last one standing!
-**Basic Controls**
-'W' 'S' AD, to move Up, down, Left & Right.
-Press Spacebar to fire!
+
+### Basic Controls
+`W` `S` `A` `D`, to move Up, down, left & right.
+[Movement Gif]
+
+Press `Spacebar` to place down a drone. After a few seconds, the drone will fire a laser!
+[Drone Firing Gif]
+
+Be sure to move out of the way before the drone fires, else, you will get hit!
+
+[Self harm gif]
+
+### Obstacles
+These are common obstacles you'll encounter throughout the game. Here's how they work.
+#### Mirrors
+
+
+**Prisms**
+
+
+
+
+### Power Ups
+There are 2 main types of power-ups in this game: Permanent & Temporary.
+
+[All the gifs for power ups]
+
 
 
 ### Editing Layout
