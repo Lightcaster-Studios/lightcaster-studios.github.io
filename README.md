@@ -63,7 +63,7 @@ Splits your laser into a 3 way splatter of doom!
 [Picture of Prism][refract]
 
 ***Crates***
-These obstacles can be destroy and you may potentially find a useful powerup!
+These obstacles can be destroyed for a useful powerup!
 [picture of crates][destroy crates]
 
 
