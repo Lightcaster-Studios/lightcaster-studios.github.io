@@ -34,7 +34,7 @@ Be sure to move out of the way before the drone fires, else, you will get hit!
 
 ### Obstacles
 These are common obstacles you'll encounter throughout the game. Here's how they work.
-#### Mirrors
+***Mirrors***
 
 
 **Prisms**
