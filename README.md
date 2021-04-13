@@ -20,8 +20,8 @@ If you want to create a new link, e.g. `/beamerman/about`, create a new `.md` fi
 
 ### How to Play
 The objective of the game is to defeat your opponents, collect powerups & avoid lasers (including your own)! The victorious will be the last one standing!
-Basic Controls
-WSAD, to move Up, down, Left & Right.
+**Basic Controls**
+'W' 'S' AD, to move Up, down, Left & Right.
 Press Spacebar to fire!
 
 
