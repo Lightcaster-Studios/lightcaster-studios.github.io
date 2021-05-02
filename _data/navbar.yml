@@ -3,7 +3,7 @@
 
 links:
   - name: home
-    url: /
+    url: ./
     sublinks:
   - name: beamerman
     url: /beamerman
