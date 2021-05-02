@@ -1,5 +1,5 @@
 ---
-layout: hero
+layout: game-page
 title: BEAMERMAN
 description: CS3247 Game Development Group Project
 buttons:
