@@ -1,7 +1,7 @@
 ---
 layout: hero
 title: BEAMERMAN
-description: CS3247 Game Development Group Project
+description: CS4350 Game Project
 buttons:
     - button_text: DOWNLOAD
       button_link: /github.com/lightcaster-studios/beamerman/releases

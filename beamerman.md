@@ -6,10 +6,5 @@ buttons:
     - button_text: DOWNLOAD
       button_link: /github.com/lightcaster-studios/beamerman/releases
     - button_text: HOW TO PLAY
-      button_link: /beamerman/how-to-play
-sections:
-    - title: About
-      description: Beamerman is... 
-    - title: About
-      description: Beamerman is...
+      button_link: ./beamerman/how-to-play
 ---
