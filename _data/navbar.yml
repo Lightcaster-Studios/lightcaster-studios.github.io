@@ -3,8 +3,10 @@
 
 links:
   - name: home
-    url: /
+    url: 
     sublinks:
+  - name: blog
+    url: blog
   - name: beamerman
     url: /beamerman
     sublinks:
@@ -19,8 +21,6 @@ links:
     issue-tracker:
       name: Report a Bug
       url: https://github.com/lightcaster-studios/beamerman/issues
-  - name: contact
-    url: /contact
 
 # For links that you don't want to show in the navbar, and want them to be 
 # shown under a `MORE` dropdown at the end of the navbar, include them here
