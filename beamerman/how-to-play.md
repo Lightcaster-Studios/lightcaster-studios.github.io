@@ -17,11 +17,19 @@ Controller:
 
 ## How to Win
 Shoot lazers and kill your enemies!
+
 Use reflected lazers to increase the damage to your enemies!
+
 Break crates to get powerups!
+
 You only have 8 lives!
 
 **Mayhem Mode:** When time runs out, the floor will fall beneath your feet. Dropping off the arena is an instant death!
+
+## Scoring
+Players are able to gain bonus points through a variety of actions.
+
+Try to use more reflected lazers against your opponents to earn more points and go for a high score!
 
 ## Powerups
 ### Permanent Powerups
