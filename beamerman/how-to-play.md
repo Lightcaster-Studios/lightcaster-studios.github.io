@@ -26,6 +26,11 @@ You only have 8 lives!
 
 **Mayhem Mode:** When time runs out, the floor will fall beneath your feet. Dropping off the arena is an instant death!
 
+## Lazers
+Lazers grow stronger with every reflection they go through, increasing its speed and damage.
+
+Attacking players with reflected lazers will help you gain the upper hand!
+
 ## Scoring
 Players are able to gain bonus points through a variety of actions.
 
